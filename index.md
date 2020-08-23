@@ -1,25 +1,4 @@
-
-CURRICULUM VITAE
-ELEINY PAMELA HERRERA LAGUNA
-Jose Gálvez 605 P.J-Independencia
-Alto Selva Alegre-Arequipa 
-	CELULAR:935777874
-  DATO PERSONALES
-  Fecha De Nacimiento		: 10/09/1998
-Edad					: 20 años
-Lugar de Nacimiento		: Chuquibamba–Condesuyos- Arequipa 
-Nacionalidad				: Peruano
-DNI					: 70878576
-Estado Civil				: Soltero
-E-mail					:eleiny.21113@gmail.com
-ESTUDIOS REALIZADOS
-ESTUDIOS PRIMARIOS		: José Olaya -Yause 40426
-ESTUDIOS SECUNDARIOS		: San Luis Gonzaga- Chuquibamba  
-
-
-  
-
-
+PUBLICACION_proyecto Iley
 You can use the [editor on GitHub](https://github.com/eleiny/my-app-react/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
